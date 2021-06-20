@@ -26,7 +26,6 @@ public class Day2Test {
 
         boolean result = isSameTree1(p, q);
 
-
         System.out.println();
     }
 
