@@ -1,4 +1,4 @@
-package com.chocol.arithmetic;
+package com.chocol.arithmetic.aug2021;
 
 import java.util.*;
 import java.util.stream.Collectors;

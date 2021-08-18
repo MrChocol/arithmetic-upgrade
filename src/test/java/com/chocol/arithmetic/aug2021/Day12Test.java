@@ -1,4 +1,4 @@
-package com.chocol.arithmetic;
+package com.chocol.arithmetic.aug2021;
 
 import com.chocol.arithmetic.DO.TreeNode;
 import org.junit.jupiter.api.Test;

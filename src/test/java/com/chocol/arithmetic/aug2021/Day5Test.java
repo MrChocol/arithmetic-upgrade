@@ -1,4 +1,4 @@
-package com.chocol.arithmetic;
+package com.chocol.arithmetic.aug2021;
 
 import java.util.LinkedList;
 import java.util.Queue;

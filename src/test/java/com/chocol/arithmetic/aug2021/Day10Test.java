@@ -1,4 +1,4 @@
-package com.chocol.arithmetic;
+package com.chocol.arithmetic.aug2021;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
