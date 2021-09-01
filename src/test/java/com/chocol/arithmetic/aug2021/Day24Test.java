@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Deque;
 import java.util.List;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import lombok.extern.slf4j.Slf4j;
