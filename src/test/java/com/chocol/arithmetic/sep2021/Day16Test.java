@@ -5,6 +5,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import lombok.extern.slf4j.Slf4j;
 
+import java.util.Arrays;
+
 /**
  * Description:
  *
@@ -18,9 +20,10 @@ public class Day16Test {
 
     @Test
     public void test01() {
-        nextPermutation(new int[] {1, 2, 3});
+        int[] nums = {1, 2, 3};
+        nextPermutation(nums);
 
-        System.out.println();
+        System.out.println(Arrays.toString(nums));
     }
 
     /**
